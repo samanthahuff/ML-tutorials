@@ -132,4 +132,5 @@ dmypy.json
 #
 *.pdf
 *.DS_Store
-
+*.csv
+*.svg
