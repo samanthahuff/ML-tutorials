@@ -1,7 +1,10 @@
 # Sci-kit Learn Tutorials
 1.10 https://scikit-learn.org/stable/modules/tree.html
+
 1.11 https://scikit-learn.org/stable/modules/ensemble.html
+
 1.12 https://scikit-learn.org/stable/modules/multiclass.html
+
 1.13 https://scikit-learn.org/stable/modules/feature_selection.html
 
 
